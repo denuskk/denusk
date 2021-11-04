@@ -1,0 +1,24 @@
+{
+  "name": "UP-X — Multiplayer online strategy",
+  "short_name": "UP-X",
+  "description": "Multiplayer online strategy where everyone can be a winner! Check your luck!",
+  "dir": "auto",
+  "lang": "ru",
+  "display": "standalone",
+  "orientation": "any",
+  "start_url": "/?mode=pwa",
+  "background_color": "#1e1f2f",
+  "theme_color": "#1e1f2f",
+  "icons": [
+    {
+      "src": "/img/favicon/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/favicon/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
